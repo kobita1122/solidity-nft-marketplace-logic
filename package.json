@@ -1,0 +1,8 @@
+{
+  "name": "nft-marketplace-logic",
+  "version": "1.0.0",
+  "description": "Smart contract backend for an NFT marketplace",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
